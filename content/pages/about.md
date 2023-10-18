@@ -1,8 +1,8 @@
 ---
 title: À propos
-date: 2023-01-21
+date: 2023-10-18
 weight: 50
 type: colophon
 ---
 
-Modèle 3 pour le travail final du cours FRA3825 : Carnet d'écriture. 
+Modèle 3 pour le travail final du cours hnu6051 : format d’écriture. 
