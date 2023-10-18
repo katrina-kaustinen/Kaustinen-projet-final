@@ -1,6 +1,6 @@
 ---
 title: À propos
-date: 2023-10-18
+date: 2023-10-17
 weight: 50
 type: colophon
 ---
