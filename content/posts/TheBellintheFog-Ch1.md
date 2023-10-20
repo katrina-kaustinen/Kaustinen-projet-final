@@ -1,3 +1,16 @@
++++
+<details><summary>Titre</summary><p>Texte</p>
+chapter = "Chapitre [1]"
+date = "2022-10-20"
+image = "images/logo.png"
+title = "The Bell in the Fog"
+weight = [2 si chapitre 1, 3 si chapitre 2, etc.]
+chapitre = "oui"
++++
+</details>
+<body>
+<link rel="stylesheet" href="chemin">
+<style>p { text-align: right;}</style>
 ---
 The Bell in the Fog: "by Gertrude Atherton"
 ---
@@ -64,7 +77,7 @@ For two months he lived in his fool's paradise, and then he knew that the book m
 The author's boxes were packed. He sent the manuscript to his publisher an hour after it was finished--he could not have given it a final reading to have saved it from failure--directed his secretary to examine the proof under a microscope, and left the next morning for Homburg. There, in inmost circles, he forgot his children. He visited in several of the great houses of the Continent until November; then returned to London to find his book the literary topic of the day. His secretary handed him the reviews; and for once in a way he read the finalities of the nameless. He found himself hailed as a genius, and compared in astonished phrases to the prodigiously clever talent which the world for twenty years had isolated under the name of Ralph Orth. This pleased him, for every writer is human enough to wish to be hailed as a genius, and immediately. Many are, and many wait; it depends upon the fashion of the moment, and the needs and bias of those who write of writers. Orth had waited twenty years; but his past was bedecked with the headstones of geniuses long since forgotten. He was gratified to come thus publicly into his estate, but soon reminded himself that all the adulation of which a belated world was capable could not give him one thrill of the pleasure which the companionship of that book had given him, while creating. It was the keenest pleasure in his memory, and when a man is fifty and has written many books, that is saying a great deal.
 
 He allowed what society was in town to lavish honors upon him for something over a month, then cancelled all his engagements and went down to Chillingsworth.
-
+</body>
 His estate was in Hertfordshire, that county of gentle hills and tangled lanes, of ancient oaks and wide wild heaths, of historic houses, and dark woods, and green fields innumerable--a Wordsworthian shire, steeped in the deepest peace of England. As Orth drove towards his own gates he had the typical English sunset to gaze upon, a red streak with a church spire against it. His woods were silent. In the fields, the cows stood as if conscious of their part. The ivy on his old gray towers had been young with his children.
 
 He spent a haunted night, but the next day stranger happenings began.
