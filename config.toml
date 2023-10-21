@@ -10,7 +10,7 @@ weight = 2
 [[menu.main]]
 identifier = "index"
 name = "Contenus"
-url = "/"
+url = "https://katrina-kaustinen.github.io/Kaustinen-projet-final/"
 weight = 1
 [[menu.main]]
 identifier = "print"
