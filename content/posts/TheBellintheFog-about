@@ -1,7 +1,7 @@
 +++
 chapter = "Title page"
 date = "2023-10-18 T10:01:00.000+00:00"
-image = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvw38WpbVg8yksX58mJTEBGEpFvyN14FHAAg&usqp=CAU"
+image = "images/logo.png"
 title = "cover image"
 weight = 6
 chapitre = "oui"
@@ -28,8 +28,3 @@ p {
 <p>A horror short story written by Gertrude Atherton and first published in 1905.</p>
 
 <p>This web page was made by Universtié de Montréal PhD candidate, Katrina Kaustinen on October 17, 2023 using text from Wikisource.</p>
-
-<p>Description: Sister Projects.sister projects: Wikidata item. 
-
-</body>
-</html>
