@@ -1,5 +1,5 @@
 DefaultContentLanguage = "fr"
-baseURL = "/"
+baseURL = "https://katrina-kaustinen.github.io/Kaustinen-projet-final/"
 disableFastRender = true
 disableKinds = ["categories"]
 languageCode = "fr-fr"
