@@ -1,7 +1,14 @@
----
-The Bell in the Fog: "by Gertrude Atherton"
----
-Chapter 1
++++
+chapter = "Chapitre 1"
+date = "2023-10-17 T10:01:00.000+00:00"
+image = "images/logo.png"
+title = ""
+weight = 1
+chapitre = "oui"
++++
+
+# The Bell in the Fog: "by Gertrude Atherton" [^1][^2]
+## Chapter 1
 
 The great author had realized one of the dreams of his ambitious youth, the possession of an ancestral hall in England. It was not so much the good American's reverence for ancestors that inspired the longing to consort with the ghosts of an ancient line, as artistic appreciation of the mellowness, the dignity, the aristocratic aloofness of walls that have sheltered, and furniture that has embraced, generations and generations of the dead. To mere wealth, only his astute and incomparably modern brain yielded respect; his ego raised its goose-flesh at the sight of rooms furnished with a single check, conciliatory as the taste might be. The dumping of the old interiors of Europe into the glistening shells of the United States not only roused him almost to passionate protest, but offended his patriotism--which he classified among his unworked ideals. The average American was not an artist, therefore he had no excuse for even the affectation of cosmopolitanism. Heaven knew he was national enough in everything else, from his accent to his lack of repose; let his surroundings be in keeping.
 
@@ -68,3 +75,6 @@ He allowed what society was in town to lavish honors upon him for something over
 His estate was in Hertfordshire, that county of gentle hills and tangled lanes, of ancient oaks and wide wild heaths, of historic houses, and dark woods, and green fields innumerable--a Wordsworthian shire, steeped in the deepest peace of England. As Orth drove towards his own gates he had the typical English sunset to gaze upon, a red streak with a church spire against it. His woods were silent. In the fields, the cows stood as if conscious of their part. The ivy on his old gray towers had been young with his children.
 
 He spent a haunted night, but the next day stranger happenings began.
+
+[^1]: Exported from **Wikisource** on October 17, 2023
+[^2]: _The Bell in the Fog_ was first published  in 1905
