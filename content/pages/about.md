@@ -7,4 +7,4 @@ date: 2023-10-17
 
 Cette édition a été préparée par **Katrina Kaustinen**, doctorante en études anglaises à l'_Université de Montréal_, dans le cadre du microprogramme en humanités numériques du _Département de littératures et de language du monde_. Cet atelier s'agit de son premier contact avec GitHub.
 
-Source of the text: [Wikisource](https://en.wikisource.org/wiki/The_Bell_in_the_Fog)https://en.wikisource.org/wiki/The_Bell_in_the_Fog).
+Source of the text: [Wikisource](https://en.wikisource.org/wiki/The_Bell_in_the_Fog).
